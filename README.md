@@ -36,5 +36,24 @@ Math operators self-exercise.
 11. **TypeConversion.java**  
 Explicit type casting in java.
 12. **Meeting.java**  
-Explicit type conversion self-exercise
-13. 
+Explicit type conversion self-exercise.
+13. **Survey.java**  
+Reading inputs with scanner.
+14. **NextLineTrap.java**  
+Understanding the next line whitespace trap when using nextLine after nextInt and similar.
+15. **SignUp.java**  
+NextLine trap self-exercise.
+16. **Chatbot.java**  
+Section 2 challenge with variables and input reading.
+
+### Section 3: Booleans and Conditionals
+1. **Booleans.java**  
+The two boolean types.
+2. **BooleanComparisions.java**  
+Comparision operators, comparing String types.
+3. **AskJava.java**  
+Boolean Comparision self-exercise
+4. **IfElse.java**  
+If-Else statements using boolean conditions.
+5. **JavaMart.java**  
+If-Else statements self-exercise.
