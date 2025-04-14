@@ -1,5 +1,4 @@
-// all code in java goes inside a class
-// class name should be the same as filename
+// Program 1
 
 public class HelloJava {
     // main: entry point of program
@@ -8,3 +7,10 @@ public class HelloJava {
         System.out.println("Hello World");
     }
 }
+
+/**
+ * NOTES
+ * 
+ * - all code in java goes inside a class
+ * - class name should be the same as filename
+ */

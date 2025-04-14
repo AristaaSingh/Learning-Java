@@ -1,3 +1,5 @@
+// Section 2 Program 5
+
 public class WholeNumbers {
     public static void main (String[] args) {
         // we have to use 'L' with the integer to let java know we are storing this correctly
@@ -11,10 +13,13 @@ public class WholeNumbers {
 }
 
 /**
- * long types are 64-bit (8 bytes) in comparision to integer types which are 32-bit (4 bytes).
- * int types have a range of approx -2bil to +2bil
- * a good example is when youtube had to update their code to store larger number of views when PSY's
+ * NOTES
+ * 
+ * - long types are 64-bit (8 bytes) in comparision to integer types which are 32-bit (4 bytes).
+ * - long also stores large WHOLE numbers (no decimals!!)
+ * - int types have a range of approx -2bil to +2bil
+ * - a good example is when youtube had to update their code to store larger number of views when PSY's
  * gangnam style came out...
  * 
- * always use the smallest amount of memory possible!!
+ * - always use the smallest amount of memory possible!!
  */

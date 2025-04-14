@@ -1,3 +1,5 @@
+// Section 2 Program 6
+
 public class Decimals {
     public static void main(String[] args) {
         double percentage = 73.5;
@@ -11,7 +13,9 @@ public class Decimals {
 }
 
 /**
- * double type can store up to 15 decimal places
- * don't use integers for math calculations, java will always return an integer as the answer and
+ * NOTES
+ * 
+ * - double type can store up to 15 decimal places
+ * - don't use integers for math calculations, java will always return an integer as the answer and
  * cut off all the decimals!
  */

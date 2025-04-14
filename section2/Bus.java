@@ -1,3 +1,5 @@
+// Section 2 Program 2
+
 public class Bus {
     public static void main(String[] args) {
         int passengers = 0;
