@@ -57,3 +57,9 @@ Boolean Comparision self-exercise
 If-Else statements using boolean conditions.
 5. **JavaMart.java**  
 If-Else statements self-exercise.
+6. **IfElseIfElse.java**  
+Embedded else-if statements.
+7. **Championship.java**  
+Embedded else-if self-exercise.
+8. **WeatherNetwork.java**  
+Another embedded else-if self-exercise.
