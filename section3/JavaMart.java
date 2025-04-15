@@ -1,3 +1,5 @@
+// Workbook 3.2
+
 public class JavaMart {
     public static void main(String[] args) {
         double wallet = 100;
@@ -14,11 +16,6 @@ public class JavaMart {
 
         double nike = 95.99;
         System.out.println("Can I get these nike shoes?");
-        //if you have enough money
-            //       print: Sure!
-            //       pay for the nike shoes 
-
-        //else: Sorry, I only have <wallet> left.
         if (wallet >= nike) {
             wallet -= nike;
             System.out.println("Sure!");
