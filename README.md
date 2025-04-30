@@ -2,64 +2,51 @@
 - My journey of learning java, in a github repo.
 - Resources for [The Complete Java Development Bootcamp](https://udemy-redirect-app.herokuapp.com/java)
 
-## Order-wise Index for all the code
+# Section-wise Index for all the code
 
-### Section One: Getting Started
-1. **HelloJava.java:**  
-Structure of a basic java program
-2. **FirstProgram.java:**  
-Printing strings to the console.
-3. **YourInitials.java:**  
-Printing strings self-exercise.
+## Section 1: Getting Started
 
-### Section Two: Variables
-1. **Variables.java**:  
-Int type and its range.
-2. **Bus.java**  
-Updating variables.
-3. **Points.java**  
-Updating variables self-exercise.
-4. **JoiningStrings.java**  
-String type.
-5. **Grades.java**  
-Char type.
-6. **Biography.java**  
-String, int, char self-exercise.
-7. **WholeNumbers.java**  
-Long type.
-8. **Decimals.java**  
-Storing decimals using the double type.
-9. **MathOperations.java**  
-Rundown of all math operators in java.
-10. **AppleStore.java**  
-Math operators self-exercise.
-11. **TypeConversion.java**  
-Explicit type casting in java.
-12. **Meeting.java**  
-Explicit type conversion self-exercise.
-13. **Survey.java**  
-Reading inputs with scanner.
-14. **NextLineTrap.java**  
-Understanding the next line whitespace trap when using nextLine after nextInt and similar.
-15. **SignUp.java**  
-NextLine trap self-exercise.
-16. **Chatbot.java**  
-Section 2 challenge with variables and input reading.
+| Filename | Category | Description |
+|----------|----------|-------------|
+| HelloJava.java | Program 1 | Structure of a basic java program |
+| FirstProgram.java | Workbook 1.1 | Printing strings to the console |
+| YourInitials.java | Challenge 1 | Printing strings self-exercise |
 
-### Section 3: Booleans and Conditionals
-1. **Booleans.java**  
-The two boolean types.
-2. **BooleanComparisions.java**  
-Comparision operators, comparing String types.
-3. **AskJava.java**  
-Boolean Comparision self-exercise
-4. **IfElse.java**  
-If-Else statements using boolean conditions.
-5. **JavaMart.java**  
-If-Else statements self-exercise.
-6. **IfElseIfElse.java**  
-Embedded else-if statements.
-7. **Championship.java**  
-Embedded else-if self-exercise.
-8. **WeatherNetwork.java**  
-Another embedded else-if self-exercise.
+## Section 2: Variables
+
+| Filename | Category | Description |
+|----------|----------|-------------|
+| Variables.java | Program 1 | Int type and its range |
+| Bus.java | Program 2 | Updating variables |
+| Points.java | Workbook 2.1 | Updating variables self-exercise |
+| JoiningStrings.java | Program 3 | String type |
+| Grades.java | Program 4 | Char type |
+| Biography.java | Workbook 2.2 | String, int, char self-exercise |
+| WholeNumbers.java | Program 5 | Long type |
+| Decimals.java | Program 6 | Storing decimals using the double type. |
+| MathOperations.java | Program 7 | Rundown of all math operators in java. |
+| AppleStore.java | Workbook 2.3 | Math operators self-exercise |
+| TypeConversion.java | Program 8 | Explicit type casting in java |
+| Meeting.java | Workbook 2.4 | Explicit type conversion self-exercise |
+| Survey.java | Program 9 | Reading inputs with scanner |
+| NextLineTrap.java | Program 10 | Understanding the next line whitespace trap when using nextLine after nextInt and similar |
+| SignUp.java | Workbook 2.5 | NextLine trap self-exercise |
+| Chatbot.java | Challenge 2 | Section 2 challenge with variables and input reading |
+
+
+## Section 3: Booleans and Conditionals
+
+| Filename | Category | Description |
+|----------|----------|-------------|
+| Booleans.java | Program 1 | The two boolean types |
+| BooleanComparisions.java | Program 2 | Comparision operators, comparing String types |
+| AskJava.java | Workbook 3.1 | Boolean Comparision self-exercise |
+| IfElse.java | Program 3 | If-Else statements using boolean conditions |
+| JavaMart.java | Program 4 | If-Else statements self-exercise |
+| IfElseIfElse.java | Workbook 3.2 | Embedded else-if statements |
+| Championship.java | Workbook 3.3 | Embedded else-if self-exercise |
+| WeatherNetwork.java | Workbook 3.4 | Another embedded else-if self-exercise |
+| LogicalOperators.java | Program 5 | Introducing logical operators and (&&) or (||) not (!) |
+| WorkSchedule.java | Workbook 3.5 | (&&), (||), (!) self-exercise |
+
+
