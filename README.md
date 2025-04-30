@@ -49,5 +49,7 @@
 | LogicalOperators.java | Program 5 | Introducing logical operators and (&&) or (||) not (!) |
 | WorkSchedule.java | Workbook 3.5 | (&&), (||), (!) self-exercise |
 | SwitchStatements.java | Program 6 | Switch statements and when to use instead of if-else |
-| Caldendar.java | Workbook 3.6 |  |
-
+| Caldendar.java | Workbook 3.6 | Switch statements self-exercise |
+| Dealership.java | Program 7 | Bigger switch cases and scanner combined self-exercise |
+| Bank.java | Workbook 3.7 | Switch and scanner self-exercise |
+| Quiz.java | Challenge 3 | If else based scanner quiz |
