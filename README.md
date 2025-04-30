@@ -48,5 +48,6 @@
 | WeatherNetwork.java | Workbook 3.4 | Another embedded else-if self-exercise |
 | LogicalOperators.java | Program 5 | Introducing logical operators and (&&) or (||) not (!) |
 | WorkSchedule.java | Workbook 3.5 | (&&), (||), (!) self-exercise |
-
+| SwitchStatements.java | Program 6 | Switch statements and when to use instead of if-else |
+| Caldendar.java | Workbook 3.6 |  |
 
