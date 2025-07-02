@@ -46,10 +46,20 @@
 | IfElseIfElse.java | Workbook 3.2 | Embedded else-if statements |
 | Championship.java | Workbook 3.3 | Embedded else-if self-exercise |
 | WeatherNetwork.java | Workbook 3.4 | Another embedded else-if self-exercise |
-| LogicalOperators.java | Program 5 | Introducing logical operators and (&&) or (||) not (!) |
-| WorkSchedule.java | Workbook 3.5 | (&&), (||), (!) self-exercise |
+| LogicalOperators.java | Program 5 | Introducing logical operators and (&&) or (\|\|) not (!) |
+| WorkSchedule.java | Workbook 3.5 | (&&), (\|\|), (!) self-exercise |
 | SwitchStatements.java | Program 6 | Switch statements and when to use instead of if-else |
 | Caldendar.java | Workbook 3.6 | Switch statements self-exercise |
 | Dealership.java | Program 7 | Bigger switch cases and scanner combined self-exercise |
 | Bank.java | Workbook 3.7 | Switch and scanner self-exercise |
 | Quiz.java | Challenge 3 | If else based scanner quiz |
+
+
+## Section 4: Functions
+| Filename | Category | Description |
+|----------|----------|-------------|
+| Chorus.java | Program 1 | Basic structure of a function |
+| Detention.java | Workbook 4.1 | Calling a function self-exercise |
+| Parameters.java | Program 2 | Writing functions with parameters |
+| Tip.java | Workbook 4.2 | Parameter function self-exercise |
+| ReturnValues.java | Program 3 | Understanding function return types |
